@@ -1,0 +1,42 @@
+[
+{
+  "directory": "D:/C++Projects/how-to-optimize-gemm/build",
+  "command": "C:\\PROGRA~2\\MICROS~4\\2019\\COMMUN~1\\VC\\Tools\\MSVC\\1429~1.301\\bin\\Hostx64\\x64\\cl.exe  /nologo /DWIN32 /D_WINDOWS /W3 /MDd /Zi /Ob0 /Od /RTC1 -std:c11 /FoCMakeFiles\\how-to-optimize-gemm.dir\\src\\copy_matrix.c.obj /FdTARGET_COMPILE_PDB /FS -c D:\\C++Projects\\how-to-optimize-gemm\\src\\copy_matrix.c",
+  "file": "D:/C++Projects/how-to-optimize-gemm/src/copy_matrix.c"
+},
+{
+  "directory": "D:/C++Projects/how-to-optimize-gemm/build",
+  "command": "C:\\PROGRA~2\\MICROS~4\\2019\\COMMUN~1\\VC\\Tools\\MSVC\\1429~1.301\\bin\\Hostx64\\x64\\cl.exe  /nologo /DWIN32 /D_WINDOWS /W3 /MDd /Zi /Ob0 /Od /RTC1 -std:c11 /FoCMakeFiles\\how-to-optimize-gemm.dir\\src\\compare_matrices.c.obj /FdTARGET_COMPILE_PDB /FS -c D:\\C++Projects\\how-to-optimize-gemm\\src\\compare_matrices.c",
+  "file": "D:/C++Projects/how-to-optimize-gemm/src/compare_matrices.c"
+},
+{
+  "directory": "D:/C++Projects/how-to-optimize-gemm/build",
+  "command": "C:\\PROGRA~2\\MICROS~4\\2019\\COMMUN~1\\VC\\Tools\\MSVC\\1429~1.301\\bin\\Hostx64\\x64\\cl.exe  /nologo /DWIN32 /D_WINDOWS /W3 /MDd /Zi /Ob0 /Od /RTC1 -std:c11 /FoCMakeFiles\\how-to-optimize-gemm.dir\\src\\random_matrix.c.obj /FdTARGET_COMPILE_PDB /FS -c D:\\C++Projects\\how-to-optimize-gemm\\src\\random_matrix.c",
+  "file": "D:/C++Projects/how-to-optimize-gemm/src/random_matrix.c"
+},
+{
+  "directory": "D:/C++Projects/how-to-optimize-gemm/build",
+  "command": "C:\\PROGRA~2\\MICROS~4\\2019\\COMMUN~1\\VC\\Tools\\MSVC\\1429~1.301\\bin\\Hostx64\\x64\\cl.exe  /nologo /DWIN32 /D_WINDOWS /W3 /MDd /Zi /Ob0 /Od /RTC1 -std:c11 /FoCMakeFiles\\how-to-optimize-gemm.dir\\src\\dclock.c.obj /FdTARGET_COMPILE_PDB /FS -c D:\\C++Projects\\how-to-optimize-gemm\\src\\dclock.c",
+  "file": "D:/C++Projects/how-to-optimize-gemm/src/dclock.c"
+},
+{
+  "directory": "D:/C++Projects/how-to-optimize-gemm/build",
+  "command": "C:\\PROGRA~2\\MICROS~4\\2019\\COMMUN~1\\VC\\Tools\\MSVC\\1429~1.301\\bin\\Hostx64\\x64\\cl.exe  /nologo /DWIN32 /D_WINDOWS /W3 /MDd /Zi /Ob0 /Od /RTC1 -std:c11 /FoCMakeFiles\\how-to-optimize-gemm.dir\\src\\REF_MMult.c.obj /FdTARGET_COMPILE_PDB /FS -c D:\\C++Projects\\how-to-optimize-gemm\\src\\REF_MMult.c",
+  "file": "D:/C++Projects/how-to-optimize-gemm/src/REF_MMult.c"
+},
+{
+  "directory": "D:/C++Projects/how-to-optimize-gemm/build",
+  "command": "C:\\PROGRA~2\\MICROS~4\\2019\\COMMUN~1\\VC\\Tools\\MSVC\\1429~1.301\\bin\\Hostx64\\x64\\cl.exe  /nologo /DWIN32 /D_WINDOWS /W3 /MDd /Zi /Ob0 /Od /RTC1 -std:c11 /FoCMakeFiles\\how-to-optimize-gemm.dir\\src\\print_matrix.c.obj /FdTARGET_COMPILE_PDB /FS -c D:\\C++Projects\\how-to-optimize-gemm\\src\\print_matrix.c",
+  "file": "D:/C++Projects/how-to-optimize-gemm/src/print_matrix.c"
+},
+{
+  "directory": "D:/C++Projects/how-to-optimize-gemm/build",
+  "command": "C:\\PROGRA~2\\MICROS~4\\2019\\COMMUN~1\\VC\\Tools\\MSVC\\1429~1.301\\bin\\Hostx64\\x64\\cl.exe  /nologo /DWIN32 /D_WINDOWS /W3 /MDd /Zi /Ob0 /Od /RTC1 -std:c11 /FoCMakeFiles\\how-to-optimize-gemm.dir\\src\\test_MMult.c.obj /FdTARGET_COMPILE_PDB /FS -c D:\\C++Projects\\how-to-optimize-gemm\\src\\test_MMult.c",
+  "file": "D:/C++Projects/how-to-optimize-gemm/src/test_MMult.c"
+},
+{
+  "directory": "D:/C++Projects/how-to-optimize-gemm/build",
+  "command": "C:\\PROGRA~2\\MICROS~4\\2019\\COMMUN~1\\VC\\Tools\\MSVC\\1429~1.301\\bin\\Hostx64\\x64\\cl.exe  /nologo /DWIN32 /D_WINDOWS /W3 /MDd /Zi /Ob0 /Od /RTC1 -std:c11 /FoCMakeFiles\\how-to-optimize-gemm.dir\\src\\MMult0.c.obj /FdTARGET_COMPILE_PDB /FS -c D:\\C++Projects\\how-to-optimize-gemm\\src\\MMult0.c",
+  "file": "D:/C++Projects/how-to-optimize-gemm/src/MMult0.c"
+}
+]

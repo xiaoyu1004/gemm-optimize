@@ -1,0 +1,12 @@
+# ninja log v5
+0	219	6763745739330992	CMakeFiles/how-to-optimize-gemm.dir/src/copy_matrix.c.obj	45b88a628624c2b0
+19	219	6763745739310935	CMakeFiles/how-to-optimize-gemm.dir/src/MMult0.c.obj	5f227ef78ab6841c
+0	215	6763748716733689	CMakeFiles/how-to-optimize-gemm.dir/src/test_MMult.c.obj	fe335f12762c7528
+3	216	6763745739290882	CMakeFiles/how-to-optimize-gemm.dir/src/compare_matrices.c.obj	fb7b6e9af1409b52
+0	193	6763747336733692	CMakeFiles/how-to-optimize-gemm.dir/src/random_matrix.c.obj	1fde8dd6d120552a
+10	211	6763745739270821	CMakeFiles/how-to-optimize-gemm.dir/src/REF_MMult.c.obj	69bbc852245ddbbb
+5	217	6763745739341017	CMakeFiles/how-to-optimize-gemm.dir/src/print_matrix.c.obj	c2c9943fa5bffcf2
+13	650	6763745743692588	CMakeFiles/how-to-optimize-gemm.dir/src/dclock.c.obj	ae06dcc8d92fca15
+215	319	6763748717585958	how-to-optimize-gemm.exe	2da4243cc11c054c
+1	439	6763836765052401	CMakeFiles/how-to-optimize-gemm.dir/src/MMult0.c.obj	5f227ef78ab6841c
+439	550	6763836765944778	how-to-optimize-gemm.exe	2da4243cc11c054c

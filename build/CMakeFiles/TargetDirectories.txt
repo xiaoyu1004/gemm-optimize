@@ -1,0 +1,3 @@
+D:/C++Projects/how-to-optimize-gemm/build/CMakeFiles/how-to-optimize-gemm.dir
+D:/C++Projects/how-to-optimize-gemm/build/CMakeFiles/edit_cache.dir
+D:/C++Projects/how-to-optimize-gemm/build/CMakeFiles/rebuild_cache.dir

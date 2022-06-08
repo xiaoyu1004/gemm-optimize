@@ -1,0 +1,2 @@
+#pragma code_page(65001)
+1 /* CREATEPROCESS_MANIFEST_RESOURCE_ID */ 24 /* RT_MANIFEST */ "D:/C++Projects/how-to-optimize-gemm/build/CMakeFiles/how-to-optimize-gemm.dir/embed.manifest"
