@@ -1,12 +1,15 @@
 # ninja log v5
-0	219	6763745739330992	CMakeFiles/how-to-optimize-gemm.dir/src/copy_matrix.c.obj	45b88a628624c2b0
-19	219	6763745739310935	CMakeFiles/how-to-optimize-gemm.dir/src/MMult0.c.obj	5f227ef78ab6841c
-0	215	6763748716733689	CMakeFiles/how-to-optimize-gemm.dir/src/test_MMult.c.obj	fe335f12762c7528
-3	216	6763745739290882	CMakeFiles/how-to-optimize-gemm.dir/src/compare_matrices.c.obj	fb7b6e9af1409b52
-0	193	6763747336733692	CMakeFiles/how-to-optimize-gemm.dir/src/random_matrix.c.obj	1fde8dd6d120552a
-10	211	6763745739270821	CMakeFiles/how-to-optimize-gemm.dir/src/REF_MMult.c.obj	69bbc852245ddbbb
-5	217	6763745739341017	CMakeFiles/how-to-optimize-gemm.dir/src/print_matrix.c.obj	c2c9943fa5bffcf2
-13	650	6763745743692588	CMakeFiles/how-to-optimize-gemm.dir/src/dclock.c.obj	ae06dcc8d92fca15
-215	319	6763748717585958	how-to-optimize-gemm.exe	2da4243cc11c054c
-1	439	6763836765052401	CMakeFiles/how-to-optimize-gemm.dir/src/MMult0.c.obj	5f227ef78ab6841c
-439	550	6763836765944778	how-to-optimize-gemm.exe	2da4243cc11c054c
+9	818	6781329097152790	CMakeFiles/how-to-optimize-gemm.dir/src/REF_MMult.c.obj	f12c0e89f951ecca
+6	828	6781329097152790	CMakeFiles/how-to-optimize-gemm.dir/src/compare_matrices.c.obj	e48aefb4dd9cb09c
+3	212	6781368546228986	CMakeFiles/how-to-optimize-gemm.dir/src/optimize/MMult_4x4_3.c.obj	20102eb9825b0af7
+28	864	6781329098324140	CMakeFiles/how-to-optimize-gemm.dir/src/test_MMult.c.obj	a548d0d3b936f67c
+12	869	6781329098374004	CMakeFiles/how-to-optimize-gemm.dir/src/random_matrix.c.obj	b2ea47d46c66159d
+23	847	6781329097152790	CMakeFiles/how-to-optimize-gemm.dir/src/MMult0.c.obj	6fa8a954def2d63d
+1	849	6781329097995013	CMakeFiles/how-to-optimize-gemm.dir/src/copy_matrix.c.obj	e5dd005fee9cae7c
+18	851	6781329098014969	CMakeFiles/how-to-optimize-gemm.dir/src/print_matrix.c.obj	ccbccb9a9da3796a
+3	518	6781352859814207	CMakeFiles/how-to-optimize-gemm.dir/src/MMult1.c.obj	9c4b0fae1b02a17d
+15	2695	6781329116629827	CMakeFiles/how-to-optimize-gemm.dir/src/dclock.c.obj	dc93d35772fa1381
+213	638	6781368549510609	how-to-optimize-gemm.exe	bafcc08fbc14ed25
+4	224	6781358736040005	CMakeFiles/how-to-optimize-gemm.dir/src/optimize/MMult1.c.obj	f102e646a89aa9fa
+3	531	6781366273678658	CMakeFiles/how-to-optimize-gemm.dir/src/optimize/MMult2.c.obj	b30be9c9610452d
+4	224	6781367034769824	CMakeFiles/how-to-optimize-gemm.dir/src/optimize/MMult_1x4_3.c.obj	6b142b9c090311ec

@@ -1,4 +1,4 @@
-# Install script for directory: D:/C++Projects/how-to-optimize-gemm
+# Install script for directory: D:/Projects/C++Projects/gemm-optimize
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -40,5 +40,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "D:/C++Projects/how-to-optimize-gemm/build/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "D:/Projects/C++Projects/gemm-optimize/build/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

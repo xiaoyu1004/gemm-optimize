@@ -1,16 +1,16 @@
-The system is: Windows - 10.0.14393 - AMD64
+The system is: Windows - 10.0.19042 - AMD64
 Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
-Compiler: C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/VC/Tools/MSVC/14.29.30133/bin/Hostx64/x64/cl.exe 
+Compiler: C:/softwares/VisualStudio/VS2019/VC/Tools/MSVC/14.28.29910/bin/Hostx64/x64/cl.exe 
 Build flags: 
 Id flags:  
 
 The output was:
 0
-用于 x64 的 Microsoft (R) C/C++ 优化编译器 19.29.30136 版
-版权所有(C) Microsoft Corporation。保留所有权利。
+Microsoft (R) C/C++ Optimizing Compiler Version 19.28.29913 for x64
+Copyright (C) Microsoft Corporation.  All rights reserved.
 
 CMakeCCompilerId.c
-Microsoft (R) Incremental Linker Version 14.29.30136.0
+Microsoft (R) Incremental Linker Version 14.28.29913.0
 Copyright (C) Microsoft Corporation.  All rights reserved.
 
 /out:CMakeCCompilerId.exe 
@@ -21,13 +21,13 @@ Compilation of the C compiler identification source "CMakeCCompilerId.c" produce
 
 Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.obj"
 
-The C compiler identification is MSVC, found in "D:/C++Projects/how-to-optimize-gemm/build/CMakeFiles/3.20.21032501-MSVC_2/CompilerIdC/CMakeCCompilerId.exe"
+The C compiler identification is MSVC, found in "D:/Projects/C++Projects/gemm-optimize/build/CMakeFiles/3.19.20122902-MSVC_2/CompilerIdC/CMakeCCompilerId.exe"
 
 Detecting C compiler ABI info compiled with the following output:
-Change Dir: D:/C++Projects/how-to-optimize-gemm/build/CMakeFiles/CMakeTmp
+Change Dir: D:/Projects/C++Projects/gemm-optimize/build/CMakeFiles/CMakeTmp
 
-Run Build Command(s):C:/PROGRA~2/MICROS~4/2019/COMMUN~1/Common7/IDE/COMMON~1/MICROS~1/CMake/Ninja/ninja.exe cmTC_504e7 && [1/2] Building C object CMakeFiles\cmTC_504e7.dir\CMakeCCompilerABI.c.obj
-[2/2] Linking C executable cmTC_504e7.exe
+Run Build Command(s):C:/softwares/VisualStudio/VS2019/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe cmTC_d1e4f && [1/2] Building C object CMakeFiles\cmTC_d1e4f.dir\CMakeCCompilerABI.c.obj
+[2/2] Linking C executable cmTC_d1e4f.exe
 
 
 
